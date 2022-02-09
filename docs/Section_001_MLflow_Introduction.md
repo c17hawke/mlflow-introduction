@@ -34,4 +34,4 @@ pip install mlflow
 ```
 
 * Create the files as mentioned in the video lecture.
-[Source code](./mlflow-codebase/mlflow-basics/)
+[Source code](https://github.com/c17hawke/mlflow-introduction/tree/main/mlflow-codebase/mlflow-basics)
