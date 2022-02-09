@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Documentation of MLFlow-introduction course
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Official MLFlow Documenation 
 
-## Commands
+- [MLflow.org](https://mlflow.org/)
+## Contents
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+|Topic|SubTopic|
+|-|-|
+|[Section: 1 MLflow Introduction](./Section_001_MLflow_Introduction/) | Introduction to MLflow |
+|| Installation and first trial of MLflow |

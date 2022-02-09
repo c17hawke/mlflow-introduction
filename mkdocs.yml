@@ -1,17 +1,17 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: mlflow-introduction
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - Feedback: feedback.md
+  - Section 001 Intorduction to MLflow: Section_001_MLflow_Introduction.md
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
-  DESCRIPTION
+  This contains introduction to mlflow library
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: c17hawke/mlflow-introduction
+repo_url: https://github.com/c17hawke/mlflow-introduction
 
 # Configuration
 theme:
