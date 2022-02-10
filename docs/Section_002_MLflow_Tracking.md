@@ -5,7 +5,7 @@
 We have implemented a simple ML model to showcase the experiment tracking concept used in MLflow-
 
 ### Source code
-??? Note "code: test.py"
+??? Note "simple_ML_model.py"
 
     ```python
     import os
