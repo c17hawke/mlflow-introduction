@@ -10,3 +10,4 @@
 |[Section: 1 MLflow Introduction](./Section_001_MLflow_Introduction/) | Introduction to MLflow |
 || Installation and first trial of MLflow |
 |[Section: 2 MLflow Tracking](./Section_002_MLflow_Tracking/) | Simple ML model|
+|| Logging our simple ML model using |
