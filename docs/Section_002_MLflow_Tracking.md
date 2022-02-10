@@ -1,4 +1,4 @@
-# Section 2: MLFlow Tracking
+# Section 2: MLflow Tracking
 
 ## Simple ML model -
 
