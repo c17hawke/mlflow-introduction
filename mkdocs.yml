@@ -3,7 +3,8 @@ site_name: mlflow-introduction
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - Section 001 Intorduction to MLflow: Section_001_MLflow_Introduction.md
+  - Section 01 Intorduction to MLflow: Section_001_MLflow_Introduction.md
+  - Section 02 MLflow Tracking: Section_002_MLflow_Tracking.md
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
