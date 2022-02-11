@@ -7,7 +7,7 @@ We have implemented a simple ML model to showcase the experiment tracking concep
 ### Source code
 ??? Note "simple_ML_model.py"
 
-    ```python
+    ```python linenums="1"
     import os
     import argparse
     import pandas as pd
@@ -102,7 +102,7 @@ In this lecture it has been shown that how we can log our model for every execut
 ### Source code
 ??? Note "simple_ML_model_2.py"
 
-    ```python
+    ```python hl_lines="61" linenums="1"
     import os
     import argparse
     import pandas as pd
