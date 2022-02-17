@@ -179,7 +179,7 @@ In this lecture it has been shown that how we can log our model for every execut
 
 ## Exploring UI of MLflow
 
-!!! info
+!!! info inline end
     Refer video lecture for this in oneNeuron platform for UI exploration
 
 ??? Note "runs.py"
