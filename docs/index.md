@@ -13,3 +13,4 @@
 || Logging our simple ML model using |
 || Exploring UI of MLflow |
 || Packaging a project MLflow way |
+|| MLflow tracking server |

@@ -61,6 +61,7 @@ def main(alpha, l1_ratio, tracking_uri, port):
         mlflow.log_metric("mae", mae)
         mlflow.log_metric("r2", r2)
 
+        # register model in the sql server
         mlflow.sklearn.log_model(lr, "model", registered_model_name="ENmodel")
 
 
